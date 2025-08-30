@@ -1,4 +1,1 @@
-numpy
-matplotlib
-streamlit
-scipy
+streamlit>=1.32.0

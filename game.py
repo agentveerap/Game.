@@ -141,4 +141,5 @@ elif mode == "Level Designer":
     balance = ld.evaluate_balance()
     st.write(f"Balance Ratio (Reward/Difficulty) = {balance:.2f}")
     ld.plot_curves()
+
             
